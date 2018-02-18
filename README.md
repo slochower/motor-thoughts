@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/slochower/motor-thoughts/tree/gh-pages) branch hosts the contents of this directory at https://slochower.github.io/motor-thoughts/.
-The permalink for this webpage version is https://slochower.github.io/motor-thoughts/v/72608ff5e22fc0567b82a55128e2d29babda28ec/.
+The permalink for this webpage version is https://slochower.github.io/motor-thoughts/v/ee20dfc52f3e8c821702090cfa89b8060f7fa9d3/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://slochower.github.io/motor-thoughts/v/freeze/.
 
 ## Files
@@ -32,4 +32,4 @@ git add v/*/*.ots
 ## Source
 
 The manuscripts in this directory were built from
-[`72608ff5e22fc0567b82a55128e2d29babda28ec`](https://github.com/slochower/motor-thoughts/commit/72608ff5e22fc0567b82a55128e2d29babda28ec).
+[`ee20dfc52f3e8c821702090cfa89b8060f7fa9d3`](https://github.com/slochower/motor-thoughts/commit/ee20dfc52f3e8c821702090cfa89b8060f7fa9d3).
